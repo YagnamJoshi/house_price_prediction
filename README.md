@@ -1,5 +1,3 @@
-Here's the revised README file content with proper formatting:
-
 ```markdown
 # House Price Prediction
 
