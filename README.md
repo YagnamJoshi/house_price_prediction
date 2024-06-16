@@ -59,14 +59,9 @@ R-squared (R²): 0.85
 Usage
 To use the model for predictions, run the following script:
 
-bash
-Copy code
 python predict.py --input data/new_houses.csv --output predictions.csv
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-sql
-Copy code
 
 ### Steps to Create the Repository on GitHub
 
