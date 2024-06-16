@@ -1,4 +1,3 @@
-```markdown
 # House Price Prediction
 
 This project aims to predict house prices in the Australian real estate market using various machine learning techniques. The prediction model is designed to help a US-based housing company, Surprise Housing, strategically enter new markets, maximize revenue, and optimize investment decisions.
